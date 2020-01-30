@@ -6,7 +6,7 @@ then eventually delete.
 C'est La Vie!
 
 ## Adding an image using MD syntax
-![alt text](filename.jpg)
+![My Dad and my uncle John](Dick_and_John_Classic.jpg)
 
 ## Adding a link using MD syntex
-[About](about.md)
+[About](About.md)
